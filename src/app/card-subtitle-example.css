@@ -1,0 +1,7 @@
+.example-card {
+  max-width: 600px;
+}
+
+.mat-radio-button ~ .mat-radio-button {
+  margin-left: 16px;
+}
